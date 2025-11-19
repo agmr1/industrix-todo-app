@@ -15,14 +15,13 @@ Welcome to the Industrix Todo App! This is a complete full-stack web application
 - **✅ Search Functionality**: Search todos by title and description
 - **✅ Responsive Design**: Optimized for desktop, tablet, and mobile devices
 
-#### Bonus Features 🏆
-- **✅ Backend Unit Tests** (+10 points) - Comprehensive test coverage
-- **✅ React Context API** (+6 points) - Global state management
-- **✅ Advanced Filtering** (+5 points) - Filter by status, category, priority
-- **✅ Docker Containerization** (+3 points) - Full container setup
-- **✅ TypeScript** (+2 points) - Type-safe frontend development
+#### Bonus Features 
+- **✅ Backend Unit Tests**  - Comprehensive test coverage
+- **✅ React Context API**  - Global state management
+- **✅ Advanced Filtering**  - Filter by status, category, priority
+- **✅ Docker Containerization**  - Full container setup
+- **✅ TypeScript**  - Type-safe frontend development
 
-**Total Score: 126/126 points** 🎉
 
 ## 🚀 Step-by-Step Setup Instructions
 
