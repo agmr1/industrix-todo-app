@@ -6,7 +6,7 @@ Welcome to the Industrix Todo App! This is a complete full-stack web application
 
 ### 🎯 Features Implemented
 
-#### Core Features ✅
+#### Core Features 
 - **✅ Todo Management**: Create, read, update, delete todos with titles and descriptions
 - **✅ Completion Toggle**: Mark todos as completed/incomplete with visual indicators
 - **✅ Categories System**: Assign categories to todos with color coding
