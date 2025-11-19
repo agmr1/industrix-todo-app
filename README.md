@@ -40,9 +40,8 @@ cd industrix-todo-app
 # Or if using Git:
 git clone <repository-url>
 cd industrix-todo-app
-'''
 
-Step 2: Start the Application
+### Step 2: Start the Application
 bash
 
 # This command does everything automatically:
